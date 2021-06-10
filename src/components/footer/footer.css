@@ -1,0 +1,14 @@
+
+.app-footer {
+    background: #a249d6;
+    padding: .6rem 2rem;
+    text-align: right;
+    bottom: 0;
+}
+
+.buttons{
+    display: flex;
+    align-items: auto;
+    justify-content: space-between;
+    color:#a249d6;
+}
