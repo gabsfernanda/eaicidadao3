@@ -9,6 +9,7 @@ import Post from '../pages/post';
 
 const Routes = () => (
     <BrowserRouter>
+        <Route exact path="/" component={Login} />
         <Route exact path="/cadastro" component={Cadastro} />
         <Route exact path="/feed" component={Feed} />
         <Route exact path="/login" component={Login} />

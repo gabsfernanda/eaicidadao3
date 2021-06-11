@@ -1,5 +1,10 @@
 .app-container {
+    max-height: auto;
+    max-width: 100%;
+    background: #fff;
     font-family: sans-serif;
-    height: calc(100vh - 34px - 50px - 64px);
+    height: calc(95vh - 34px - 50px - 64px);
+    /* height: calc(100vh); */
     padding: 2rem;
+    overflow-y: scroll;
 }
