@@ -1,0 +1,17 @@
+.form--input{
+    margin: auto;
+    align-items: center;
+    padding: 7px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-cadastro {
+    color: #BA55D3;
+    font-family: sans-serif;
+    margin-right: 1rem;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

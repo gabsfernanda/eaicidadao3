@@ -1,6 +1,43 @@
+.componentes-login{
+    margin: auto;
+    max-width: 240px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+}
+
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0px;
+    outline: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    transition: 0.4s;
+    cursor: pointer;
+    background-color: #ba55d357;
+    width: 220px;
+    height: 40px;
+}
+
+.form--input{
+    margin: auto;
+    align-items: center;
+    padding: 7px;
+    display: flex;
+    justify-content: space-around;
+}
+
 .button-cadastro {
     color: #BA55D3;
     font-family: sans-serif;
     margin-right: 1rem;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
